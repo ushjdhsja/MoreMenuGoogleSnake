@@ -1,7 +1,7 @@
 # MoreMenuGoogleSnake
 Adaptation of Google snake mod menu (moremenu.html) from https://github.com/darksnakegang
 
-! THIS IS NOT MY SCRIPT, I SIMPLY REPLACED SOME IMAGES, IT WORKS AS THE NORMAL MOD !
+! THIS IS NOT MY SCRIPT, THOUGH IT WORKS AS THE NORMAL MOD !
 
 Credit is to https://github.com/darksnakegang
 
